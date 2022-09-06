@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CS315-Week1-NCM</string>
+    <string name="activity_1_message">Aloha</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="button_send">Send</string>
+    <string name="button_about">About</string>
+    <string name="third_text">How do you tell if someone is a Chemist or a Construction Worker? \n\nAsk them to pronounce \"unionized\".</string>
+</resources>
